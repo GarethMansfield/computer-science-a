@@ -1,2 +1,2 @@
-# Template
-This is a template for each individual course directory in apcram. 
+# AP Computer Science A
+Review sheets for AP Computer Science A. 
