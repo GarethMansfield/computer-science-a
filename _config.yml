@@ -1,7 +1,7 @@
 # Theme settings
 doks:
-    baseurl: '/template' # Change this to match the course you're creating the review guide for.
-    color_theme: blue # Available themes: blue (default), green, purple, red and yellow
+    baseurl: '/computer-science-a' # Change this to match the course you're creating the review guide for.
+    color_theme: green # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
             text: slanger

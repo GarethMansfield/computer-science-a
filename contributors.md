@@ -12,11 +12,4 @@ description: The people who have contributed to this review guide.
 micro_nav: false
 ---
 
-# Editor Team
- - A A
-
-# Major Contributors
- -
-
-# Minor Contributors
- - 
+Placeholder
