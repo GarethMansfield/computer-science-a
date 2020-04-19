@@ -38,14 +38,14 @@ units:
       url: '/unit-1'
 
     - title: Unit 2 - Using Objects
-      excerpt: Rotational motion, torque, moments of inertia.
+      excerpt: The basics of classes, objects, class methods, and class variables.
       cta: Review
-      url: '#'
+      url: '/unit-2'
 
-    - title: Unit 3 - Boolean Expressions and if statements
-      excerpt: Everything you need to know about this thing.
+    - title: Unit 3 - Boolean Expressions and Control Flow
+      excerpt: Relational operations and control flow.
       cta: Review
-      url: '#'
+      url: '/unit-3'
     - title: Unit 4 - Iteration
       excerpt: Everything you need to know about this thing.
       cta: Review
@@ -74,6 +74,5 @@ units:
       excerpt: Everything you need to know about this thing.
       cta: Review
       url: '#'
-
 
 ---

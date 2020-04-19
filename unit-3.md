@@ -6,8 +6,8 @@ comments: false
 math: false
 
 # Hero section
-title: Unit 2 - Using Objects
-description: The basics of classes, objects, class methods, and class variables.
+title: Unit 3 - Boolean Expressions and Control Flow
+description: Relational operations and control flow. 
 
 # Author box
 author:
@@ -22,11 +22,11 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: Unit 1
-        url: '/unit-1'
+        content: Unit 2
+        url: '/unit-2'
     next:
-        content: Unit 3
-        url: '/unit-3'
+        content: Unit 4
+        url: '/unit-4'
 ---
 
-{% include_relative content/unit-2.md %}
+{% include_relative content/unit-3.md %}
